@@ -15,4 +15,3 @@ The team at Fluence Labs share their experience of porting an existing open-sour
 ## Additional Resources
 
 - [Blog post](https://medium.com/fluence-network/porting-redis-to-webassembly-with-clang-wasi-af99b264ca8)
-- [Redis port repo](https://github.com/fluencelabs/redis)
