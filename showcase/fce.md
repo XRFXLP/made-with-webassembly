@@ -1,6 +1,6 @@
 ---
 name: Fluence Compute Engine
-website: https://github.com/fluencelabs/fce
+source_code: https://github.com/fluencelabs/fce
 description: engine for running multi-module WebAssembly applications with interface-types support
 keywords: interface-types multi-module shared-nothing
 ---
@@ -13,5 +13,4 @@ Fluence Compute Engine is intended to run multi-module WebAssembly applications 
 
 ## Additional Resources
 
-- [fce repo](https://github.com/fluencelabs/fce)
 - [rust sdk](https://github.com/fluencelabs/rust-sdk)
